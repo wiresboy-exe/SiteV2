@@ -1,6 +1,7 @@
 <h1 align="center">Quest Craft Website 🤓</h1>
 
 [![Discord](https://img.shields.io/discord/820767484042018829.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/cRdBUaUzcx)
+
 This is the repository for QuestCraft Website. The QuestCraft website can be found at <a href="https://quest-craft.com/">https://quest-craft.com</a>.
 
 
