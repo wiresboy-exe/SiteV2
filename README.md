@@ -1,4 +1,4 @@
-<h1 align="center">Quest Craft Website 🤓</h1>
+<h1 align="center">QuestCraft Website 🤓</h1>
 
 [![Discord](https://img.shields.io/discord/820767484042018829.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/cRdBUaUzcx)
 
@@ -6,10 +6,10 @@ This is the repository for QuestCraft Website. The QuestCraft website can be fou
 
 
 ## Download Button
-There has been many inquires made on the discord about the Download button on the website. QuestCraft currently does not have any releases available as it is still in development. For any more questions please check out the #FAQ in the Quest Craft Discord.
+There has been many inquires made on the discord about the Download button on the website. QuestCraft currently does not have any releases available as it is still in development. For any more questions please check out the #FAQ in the QuestCraft Discord.
 
 ## Contributing
-Quest Craft and Quest Craft Website is a Community run Project. Contribution to the Project is welcome but is done through Pull Requests.  
+QuestCraft and QuestCraft Website is a Community run Project. Contribution to the Project is welcome but is done through Pull Requests.  
 
 ## Credits & Third Party Components
 [Font Awesome](https://fontawesome.com/): Icons —  [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
